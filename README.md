@@ -13,9 +13,9 @@ Rabatt-Link: [TensorFlow Kurs im Rabatt](https://www.udemy.com/course/machine-un
 
 Deep Learning ist eines der angesagtesten Themen weit und breit. Insbesondere wird Deep Learning und Künstliche Neuronale Netze in vielen Technologien in deinem Umfeld eingesetzt, um dir ein noch angenehmeres Leben zu ermöglichen. 
 
-Mithilfe diesem Praxis-Kurs bringe ich dir bei wie man erkennen kann, ob Neuronale Netze schlecht performen. Du lernst an welchen Metriken du die Genauigkeit eines Netzes messen kannst. Natürlich lernst du auch Techniken wie du die Performance des Netzwerken untersuchen und natürlich optimieren kannst!
+Mithilfe diesen Praxis-Kurs bringe ich dir bei wie man erkennen kann, ob Neuronale Netze schlecht performen. Du lernst an welchen Metriken du die Genauigkeit eines Netzes messen kannst. Natürlich lernst du auch Techniken wie du die Performance des Netzwerkes untersuchen und natürlich optimieren kannst!
 
-Warum solltest du Tensorflow lernen? Tensorflow wird von den "Big Five" Unternehmen wie Apple, Google, Facebook, Amazon und Microsoft in vielen ihrer Produkte eingesetzt, um Machine Learning noch effizienter zu nutzen! Ebenfalls werde ich ihn auch immer auf dem neusten Stand der Technik und Wissenschaft halten.  
+Warum solltest du Tensorflow lernen? Tensorflow wird von den "Big Five" Unternehmen wie Apple, Google, Facebook, Amazon und Microsoft in vielen ihrer Produkte eingesetzt, um Machine Learning noch effizienter zu nutzen! Ebenfalls werde ich ihn auch immer auf dem neusten Stand der Technik und Wissenschaft halten.  
 
 Lerne wie du Tensorflow meisterst und schreibe dich JETZT ein!
 
