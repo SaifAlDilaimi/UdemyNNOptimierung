@@ -13,7 +13,9 @@ Rabatt-Link: [TensorFlow Kurs im Rabatt](https://www.udemy.com/course/machine-un
 
 Deep Learning ist eines der angesagtesten Themen weit und breit. Insbesondere wird Deep Learning und Künstliche Neuronale Netze in vielen Technologien in deinem Umfeld eingesetzt, um dir ein noch angenehmeres Leben zu ermöglichen. 
 
-Mithilfe diesen Praxis-Kurs bringe ich dir bei wie man Deep Learning mithilfe von Keras, Tensorflow und Python einsetzt. Du wirst eine gute Mischung von Theorie und Praxis in diesen Kurs erhalten. Viele der Techniken werden anhand von echten Praxis Projekte dir vermittelt. 
+Mithilfe diesen Praxis-Kurs bringe ich dir bei wie man erkennen kann, ob Neuronale Netze schlecht performen. Du lernst
+an welchen Metriken du die Genauigkeit eines Netzes messen kannst. Natürlich lernst du auch techniken wie du die
+performance des Netzwerken untersuchen und natürlich optimieren kannst!
 
 Warum solltest du Tensorflow lernen? Tensorflow wird von den "Big Five" Unternehmen wie Apple, Google, Facebook, Amazon und Microsoft in vielen ihrer Produkte eingesetzt, um Machine Learning noch effizienter zu nutzen! Ebenfalls werde ich ihn auch immer auf dem neusten Stand der Technik und Wissenschaft halten.  
 
@@ -21,24 +23,14 @@ Lerne wie du Tensorflow meisterst und schreibe dich JETZT ein!
 
 ## Der Kurs besteht aus folgenden Problemen
 
-- 👨‍💻 Entwickle ein Neuronales Netz das Preise vorhersagen kann
-- 👨‍💻 Entwickle ein Neuronales Netz das Alter und Geschlecht in Echtzeit (in Videos) vorhersagen kann
-- 👨‍💻 Entwickle ein Neuronales Netz das Aktienkurse vorhersagen kann
-- 👨‍💻 Entwickle ein Neuronales Netz das Hunde und Katzen vorhersagen kann
-- 👨‍💻 Entwickle ein Neuronales Netz das Ziffern vorhersagen kann
-- 👨‍💻 Entwickle ein Neuronales Netz das die Stimmung in Texte vorhersagen kann
-- 👨‍💻 Entwickle ein Neuronales Netz für Object Detection
-- 👨‍💻 Entwickle ein Neuronales Netz für Image Segmentation
-- 👨‍💻 Praktische Anwendung von Deep Learning Projekte im Berufsleben!
-- 👨‍💻 Das Komplexe Thema Deep Learning (Supervised Learning) verstehen
-- 👨‍💻 Von A-Z das beliebte Deep Learning Framework Keras mit TensorFlow lernen
-- 👨‍💻 Lerne wie du die Genauigkeit von Neuronale Netze erhöhen kannst
-- 👨‍💻 Lerne wie du Keras Modelle untersuchen und optimieren kannst
-- 👨‍💻 Lerne TensorBoard kennen
-- 👨‍💻 Lerne State-of-the-art Netzwerke kennen (R-CNN & Mask R-CNN)
+- Lerne die Grundlagen von Python
+- Nutze NumPy, um Berechnungen durchzuführen und Daten zu generieren
+- Erkenne Ursachen von schlechter Performance deiner Neuronalen Netze
+- Nutze Tensorflow Callbacks um deine Netze zu optimieren
+- Nutze Techniken wie Data Augmentation, Normalisierung & mehr
+- Analyse deine Netze mit Tensorboard und Callbacks
 
-
-## Warum sollte man TensorFlow und Keras verwenden
+## Warum sollte man TensorFlow verwenden
 
 - TensorFlow ist eine Open-Source Software Bibliothek von Google und  wird von einigen Big Playern weltweit genutzt, darunter sind z. B. Ebay, Dropbox, Snapchat, Twitter, SAP, IBM, Intel und Google!
 - Keras stellt eine Erweiterung von TensorFlow dar, damit schnell und unkompliziert Neuronale Netzwerke erstellt werden können.
