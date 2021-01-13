@@ -1,7 +1,7 @@
-# Neuronale Netze optimieren mit Tensorflow 2
+# Neuronale Netze Optimieren und Evaluieren mit Tensorflow 2
 
 Dies ist der Code zu meinem Udemy Kurs:
-*Crash-Kurs: Neuronale Netze optimieren mit Tensorflow 2* von Saif Al-Dilaimi.
+*Neuronale Netze Optimieren und Evaluieren mit Tensorflow 2* von Saif Al-Dilaimi.
 
 Rabatt-Link: [TensorFlow Kurs im Rabatt](https://www.udemy.com/course/machine-und-deep-learning-mit-keras-und-python/?referralCode=163A71D3382FE97BD28E)
 
