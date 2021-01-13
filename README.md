@@ -1,4 +1,4 @@
-# Crash-Kurs: Neuronale Netze optimieren mit Tensorflow 2
+# Neuronale Netze optimieren mit Tensorflow 2
 
 Dies ist der Code zu meinem Udemy Kurs:
 *Crash-Kurs: Neuronale Netze optimieren mit Tensorflow 2* von Saif Al-Dilaimi.
